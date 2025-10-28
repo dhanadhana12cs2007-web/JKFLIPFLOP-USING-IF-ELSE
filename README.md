@@ -75,6 +75,5 @@ endmodule
 
 <img width="1495" height="431" alt="image" src="https://github.com/user-attachments/assets/272b33f0-0cbe-4068-b1c2-2e7f32f1e479" />
 
-**RESULTS**
-
-<img width="1495" height="431" alt="image" src="https://github.com/user-attachments/assets/23a2adcf-071b-48e8-9b9b-03648f444ff0" />
+**RESULTS*
+ Thus the JK flipflop using verilog and validating their functionality using their functional tables implemented.
